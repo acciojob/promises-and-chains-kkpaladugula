@@ -1,6 +1,5 @@
-//your JS code here. If required.
-let name = document.getElementById('name');
-let age = document.getElementById('age');
+let name = document.getElementById("name");
+let age = document.getElementById("age");
 
 function success(){
     return new Promise((resolve, reject) => {
